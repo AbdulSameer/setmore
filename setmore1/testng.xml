@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Setmore">
+  <test name="Test">
+    <classes>
+      <class name="com.setmore.testcases.BookingPageTestCase"/>
+      <class name="com.setmore.testcases.BusinesshoursTestCase"/>
+      <class name="com.setmore.testcases.CalendarAppointmentTestCase"/>
+      <class name="com.setmore.testcases.CreateCustomerTestCase"/>
+      <class name="com.setmore.testcases.DeleteMultipleCustomersTestCase"/>
+    </classes>
+  </test> 
+</suite> 

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Setmore]">
+  <test name="Test(failed)" preserve-order="true">
+    <classes>
+      <class name="com.setmore.testcases.BookingPageTestCase">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="testscreenshots"/>
+        </methods>
+      </class> <!-- com.setmore.testcases.BookingPageTestCase -->
+      <class name="com.setmore.testcases.CalendarAppointmentTestCase">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="testscreenshots"/>
+        </methods>
+      </class> <!-- com.setmore.testcases.CalendarAppointmentTestCase -->
+      <class name="com.setmore.testcases.CreateCustomerTestCase">
+        <methods>
+          <include name="create_customer_delete"/>
+          <include name="openBrowser"/>
+          <include name="testscreenshots"/>
+        </methods>
+      </class> <!-- com.setmore.testcases.CreateCustomerTestCase -->
+      <class name="com.setmore.testcases.DeleteMultipleCustomersTestCase">
+        <methods>
+          <include name="testscreenshots"/>
+          <include name="openBrowser"/>
+        </methods>
+      </class> <!-- com.setmore.testcases.DeleteMultipleCustomersTestCase -->
+      <class name="com.setmore.testcases.BusinesshoursTestCase">
+        <methods>
+          <include name="testscreenshots"/>
+          <include name="openBrowser"/>
+        </methods>
+      </class> <!-- com.setmore.testcases.BusinesshoursTestCase -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Setmore] -->

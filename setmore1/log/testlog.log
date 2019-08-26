@@ -1,0 +1,265 @@
+2019-08-17 11:19:54,454 - BookingPageImplements -INFO - Browser invoked successfully and url is passed into the browser
+2019-08-17 11:20:00,668 - BookingPageImplements -INFO - okay button clicked
+2019-08-17 11:20:00,777 - BookingPageImplements -INFO - massage button clicked
+2019-08-17 11:20:00,905 - BookingPageImplements -INFO - head massaged service is choosen
+2019-08-17 11:20:01,069 - BookingPageImplements -INFO - staff is choosen for head massage-Engineer
+2019-08-17 11:20:06,087 - BookingPageImplements -INFO - timing has booked
+2019-08-17 11:20:06,274 - BookingPageImplements -INFO - login is skipped in booking page
+2019-08-17 11:20:08,649 - BookingPageImplements -INFO - All the details are entered successfully and booked
+2019-08-17 13:55:22,286 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-17 13:55:36,541 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-17 13:56:14,764 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-17 13:56:30,053 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-17 13:56:30,427 - BookingPageImplements -INFO - clicked on apps and integrations
+2019-08-17 13:56:32,392 - BookingPageImplements -INFO - clicked on configure button
+2019-08-17 13:56:32,789 - BookingPageImplements -INFO - clicked on business hours
+2019-08-17 13:56:35,651 - BookingPageImplements -INFO - clicked on dropdown to choose the timezone
+2019-08-17 14:00:50,983 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-17 14:01:06,330 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-17 14:01:06,655 - BookingPageImplements -INFO - clicked on apps and integrations
+2019-08-17 14:01:10,558 - BookingPageImplements -INFO - clicked on configure button
+2019-08-17 14:01:10,946 - BookingPageImplements -INFO - clicked on business hours
+2019-08-17 14:01:11,902 - BookingPageImplements -INFO - clicked on dropdown to choose the timezone
+2019-08-17 14:02:52,456 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-17 14:03:05,636 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-17 14:03:06,353 - BookingPageImplements -INFO - clicked on apps and integrations
+2019-08-17 14:03:08,122 - BookingPageImplements -INFO - clicked on configure button
+2019-08-17 14:03:08,682 - BookingPageImplements -INFO - clicked on business hours
+2019-08-17 14:03:09,434 - BookingPageImplements -INFO - clicked on dropdown to choose the timezone
+2019-08-17 14:03:10,503 - BookingPageImplements -INFO - time zone for Phoenix is choosen
+2019-08-17 14:11:40,621 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-17 14:11:53,582 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-17 14:11:54,537 - BookingPageImplements -INFO - clicked on the date of the calendar page
+2019-08-17 14:11:57,518 - BookingPageImplements -INFO - Entered all the details of the appointment
+2019-08-17 14:11:59,527 - BookingPageImplements -INFO - A new customer is added and the details have been entered
+2019-08-17 14:12:03,266 - BookingPageImplements -INFO - customer name is entered in search field
+2019-08-17 14:12:08,690 - BookingPageImplements -INFO - customer name is edited and saved
+2019-08-17 14:12:09,505 - BookingPageImplements -INFO - Customer is deleted
+2019-08-17 15:12:17,448 - BookingPageImplements -INFO - Browser invoked successfully and url is passed into the browser
+2019-08-17 15:12:21,899 - BookingPageImplements -INFO - okay button clicked
+2019-08-17 15:12:22,071 - BookingPageImplements -INFO - massage button clicked
+2019-08-17 15:12:22,290 - BookingPageImplements -INFO - head massaged service is choosen
+2019-08-17 15:12:22,540 - BookingPageImplements -INFO - staff is choosen for head massage-Engineer
+2019-08-17 15:12:28,136 - BookingPageImplements -INFO - timing has booked
+2019-08-17 15:12:28,349 - BookingPageImplements -INFO - login is skipped in booking page
+2019-08-17 15:12:30,926 - BookingPageImplements -INFO - All the details are entered successfully and booked
+2019-08-17 15:43:58,332 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-17 15:44:15,519 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-17 15:50:15,849 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-17 15:51:13,452 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-17 15:52:00,464 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-17 15:53:01,228 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-17 15:57:47,180 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-17 15:58:00,332 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-17 16:07:37,793 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-17 16:07:52,839 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-17 16:09:16,111 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-17 16:09:41,136 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-17 17:26:28,909 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-17 17:41:05,395 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-17 17:41:22,384 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-17 17:41:23,591 - BookingPageImplements -INFO - clicked on the date of the calendar page
+2019-08-17 17:41:26,367 - BookingPageImplements -INFO - Entered all the details of the appointment
+2019-08-17 17:41:28,368 - BookingPageImplements -INFO - A new customer is added and the details have been entered
+2019-08-17 17:41:32,237 - BookingPageImplements -INFO - customer name is entered in search field
+2019-08-17 17:41:37,620 - BookingPageImplements -INFO - customer name is edited and saved
+2019-08-17 17:41:39,511 - BookingPageImplements -INFO - Customer is deleted
+2019-08-17 17:45:29,574 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-17 17:45:46,682 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-17 17:45:47,625 - BookingPageImplements -INFO - clicked on the date of the calendar page
+2019-08-17 18:02:31,726 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-17 18:02:51,040 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-17 18:02:51,755 - BookingPageImplements -INFO - clicked on the date of the calendar page
+2019-08-17 18:02:55,634 - BookingPageImplements -INFO - Entered all the details of the appointment
+2019-08-17 18:04:20,043 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-17 18:04:35,916 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-17 18:05:25,453 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-17 18:05:39,517 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-17 18:05:40,209 - BookingPageImplements -INFO - clicked on the date of the calendar page
+2019-08-17 18:06:09,018 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-17 18:06:27,063 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-17 18:06:29,661 - BookingPageImplements -INFO - clicked on the date of the calendar page
+2019-08-17 18:07:14,421 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-17 18:07:29,909 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-17 18:07:30,882 - BookingPageImplements -INFO - clicked on the date of the calendar page
+2019-08-17 18:09:36,070 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-17 18:10:05,114 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-17 18:10:05,850 - BookingPageImplements -INFO - clicked on the date of the calendar page
+2019-08-17 18:27:30,768 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-17 18:27:47,758 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-17 18:27:49,004 - BookingPageImplements -INFO - clicked on the date of the calendar page
+2019-08-17 18:27:57,331 - BookingPageImplements -INFO - Entered all the details of the appointment
+2019-08-17 18:27:59,201 - BookingPageImplements -INFO - A new customer is added and the details have been entered
+2019-08-17 18:28:02,825 - BookingPageImplements -INFO - customer name is entered in search field
+2019-08-17 18:31:13,279 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-17 18:31:28,954 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-17 18:31:30,005 - BookingPageImplements -INFO - clicked on the date of the calendar page
+2019-08-17 18:31:38,126 - BookingPageImplements -INFO - Entered all the details of the appointment
+2019-08-17 18:31:39,868 - BookingPageImplements -INFO - A new customer is added and the details have been entered
+2019-08-17 18:31:43,669 - BookingPageImplements -INFO - customer name is entered in search field
+2019-08-17 18:31:53,582 - BookingPageImplements -INFO - customer name is edited and saved
+2019-08-17 18:31:54,320 - BookingPageImplements -INFO - Customer is deleted
+2019-08-17 18:33:56,830 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-17 18:34:14,196 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-17 18:34:14,835 - BookingPageImplements -INFO - clicked on the date of the calendar page
+2019-08-17 18:34:23,547 - BookingPageImplements -INFO - Entered all the details of the appointment
+2019-08-17 18:34:25,539 - BookingPageImplements -INFO - A new customer is added and the details have been entered
+2019-08-17 18:35:42,679 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-17 18:35:58,742 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-17 18:35:59,331 - BookingPageImplements -INFO - clicked on the date of the calendar page
+2019-08-17 18:36:08,645 - BookingPageImplements -INFO - Entered all the details of the appointment
+2019-08-17 18:36:10,495 - BookingPageImplements -INFO - A new customer is added and the details have been entered
+2019-08-17 18:36:14,290 - BookingPageImplements -INFO - customer name is entered in search field
+2019-08-17 18:36:21,525 - BookingPageImplements -INFO - customer name is edited and saved
+2019-08-17 18:36:22,383 - BookingPageImplements -INFO - Customer is deleted
+2019-08-17 18:36:58,400 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-17 18:37:13,941 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-17 18:37:14,553 - BookingPageImplements -INFO - clicked on the date of the calendar page
+2019-08-17 18:37:23,575 - BookingPageImplements -INFO - Entered all the details of the appointment
+2019-08-17 18:37:25,672 - BookingPageImplements -INFO - A new customer is added and the details have been entered
+2019-08-17 18:37:29,475 - BookingPageImplements -INFO - customer name is entered in search field
+2019-08-17 18:37:36,894 - BookingPageImplements -INFO - customer name is edited and saved
+2019-08-17 18:37:38,438 - BookingPageImplements -INFO - Customer is deleted
+2019-08-17 18:39:36,102 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-17 18:39:51,633 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-17 18:39:52,184 - BookingPageImplements -INFO - clicked on the date of the calendar page
+2019-08-17 18:40:01,069 - BookingPageImplements -INFO - Entered all the details of the appointment
+2019-08-17 18:40:02,963 - BookingPageImplements -INFO - A new customer is added and the details have been entered
+2019-08-17 18:40:08,719 - BookingPageImplements -INFO - customer name is entered in search field
+2019-08-17 18:40:14,143 - BookingPageImplements -INFO - customer name is edited and saved
+2019-08-17 18:41:25,857 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-17 18:41:40,616 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-17 18:41:41,139 - BookingPageImplements -INFO - clicked on the date of the calendar page
+2019-08-17 18:41:49,787 - BookingPageImplements -INFO - Entered all the details of the appointment
+2019-08-17 18:41:51,787 - BookingPageImplements -INFO - A new customer is added and the details have been entered
+2019-08-17 18:42:06,651 - BookingPageImplements -INFO - customer name is entered in search field
+2019-08-17 18:42:11,994 - BookingPageImplements -INFO - customer name is edited and saved
+2019-08-17 18:42:13,000 - BookingPageImplements -INFO - Customer is deleted
+2019-08-17 18:42:56,736 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-17 18:43:14,385 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-17 18:43:14,950 - BookingPageImplements -INFO - clicked on the date of the calendar page
+2019-08-17 18:43:23,614 - BookingPageImplements -INFO - Entered all the details of the appointment
+2019-08-17 18:43:25,458 - BookingPageImplements -INFO - A new customer is added and the details have been entered
+2019-08-17 18:43:31,139 - BookingPageImplements -INFO - customer name is entered in search field
+2019-08-17 18:43:36,508 - BookingPageImplements -INFO - customer name is edited and saved
+2019-08-17 18:43:37,816 - BookingPageImplements -INFO - Customer is deleted
+2019-08-19 12:27:59,504 - BookingPageImplements -INFO - Browser invoked successfully and url is passed into the browser
+2019-08-19 12:28:56,007 - BookingPageImplements -INFO - Browser invoked successfully and url is passed into the browser
+2019-08-19 12:28:56,413 - BookingPageImplements -INFO - okay button clicked
+2019-08-19 12:28:56,543 - BookingPageImplements -INFO - massage button clicked
+2019-08-19 12:28:56,714 - BookingPageImplements -INFO - head massaged service is choosen
+2019-08-19 12:28:56,945 - BookingPageImplements -INFO - staff is choosen for head massage-Engineer
+2019-08-19 12:29:01,222 - BookingPageImplements -INFO - timing has booked
+2019-08-19 12:29:01,513 - BookingPageImplements -INFO - login is skipped in booking page
+2019-08-19 12:29:04,129 - BookingPageImplements -INFO - All the details are entered successfully and booked
+2019-08-19 12:29:49,095 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-19 12:30:50,113 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-19 12:30:50,580 - BookingPageImplements -INFO - clicked on apps and integrations
+2019-08-19 12:31:08,051 - BookingPageImplements -INFO - clicked on configure button
+2019-08-19 12:31:08,418 - BookingPageImplements -INFO - clicked on business hours
+2019-08-19 12:31:09,144 - BookingPageImplements -INFO - clicked on dropdown to choose the timezone
+2019-08-19 12:31:11,485 - BookingPageImplements -INFO - time zone for Phoenix is choosen
+2019-08-19 12:41:18,111 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-19 12:45:08,247 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-19 12:46:03,835 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-19 12:46:18,379 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-19 12:46:20,718 - BookingPageImplements -INFO - clicked on the date of the calendar page
+2019-08-19 12:46:28,649 - BookingPageImplements -INFO - Entered all the details of the appointment
+2019-08-19 12:46:30,694 - BookingPageImplements -INFO - A new customer is added and the details have been entered
+2019-08-19 12:46:36,995 - BookingPageImplements -INFO - customer name is entered in search field
+2019-08-19 12:46:48,726 - BookingPageImplements -INFO - customer name is edited and saved
+2019-08-19 12:46:49,674 - BookingPageImplements -INFO - Customer is deleted
+2019-08-19 12:54:34,381 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-19 12:54:50,034 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-19 12:54:51,709 - BookingPageImplements -INFO - clicked on the date of the calendar page
+2019-08-19 12:54:59,576 - BookingPageImplements -INFO - Entered all the details of the appointment
+2019-08-19 12:55:01,529 - BookingPageImplements -INFO - A new customer is added and the details have been entered
+2019-08-19 12:55:07,134 - BookingPageImplements -INFO - customer name is entered in search field
+2019-08-19 12:55:12,536 - BookingPageImplements -INFO - customer name is edited and saved
+2019-08-19 12:55:13,538 - BookingPageImplements -INFO - Customer is deleted
+2019-08-19 12:57:02,770 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-19 12:57:17,149 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-19 12:57:18,041 - BookingPageImplements -INFO - clicked on the date of the calendar page
+2019-08-19 12:57:26,837 - BookingPageImplements -INFO - Entered all the details of the appointment
+2019-08-19 12:57:28,757 - BookingPageImplements -INFO - A new customer is added and the details have been entered
+2019-08-19 12:57:34,311 - BookingPageImplements -INFO - customer name is entered in search field
+2019-08-19 12:57:39,727 - BookingPageImplements -INFO - customer name is edited and saved
+2019-08-19 12:59:29,407 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-19 12:59:43,369 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-19 12:59:44,604 - BookingPageImplements -INFO - clicked on the date of the calendar page
+2019-08-19 12:59:53,201 - BookingPageImplements -INFO - Entered all the details of the appointment
+2019-08-19 12:59:55,202 - BookingPageImplements -INFO - A new customer is added and the details have been entered
+2019-08-19 13:00:00,887 - BookingPageImplements -INFO - customer name is entered in search field
+2019-08-19 13:00:06,316 - BookingPageImplements -INFO - customer name is edited and saved
+2019-08-19 13:02:17,143 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-19 13:02:34,881 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-19 13:02:36,042 - BookingPageImplements -INFO - clicked on the date of the calendar page
+2019-08-19 13:02:44,525 - BookingPageImplements -INFO - Entered all the details of the appointment
+2019-08-19 13:02:46,410 - BookingPageImplements -INFO - A new customer is added and the details have been entered
+2019-08-19 13:02:52,008 - BookingPageImplements -INFO - customer name is entered in search field
+2019-08-19 13:02:57,532 - BookingPageImplements -INFO - customer name is edited and saved
+2019-08-19 13:03:19,734 - BookingPageImplements -INFO - Customer is deleted
+2019-08-19 13:05:20,436 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-19 13:05:34,780 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-19 13:05:36,068 - BookingPageImplements -INFO - clicked on the date of the calendar page
+2019-08-19 13:05:44,683 - BookingPageImplements -INFO - Entered all the details of the appointment
+2019-08-19 13:05:46,473 - BookingPageImplements -INFO - A new customer is added and the details have been entered
+2019-08-19 13:05:52,344 - BookingPageImplements -INFO - customer name is entered in search field
+2019-08-19 13:05:57,712 - BookingPageImplements -INFO - customer name is edited and saved
+2019-08-19 13:06:08,981 - BookingPageImplements -INFO - Customer is deleted
+2019-08-19 13:09:40,029 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-19 13:10:10,054 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-19 13:10:11,129 - BookingPageImplements -INFO - clicked on the date of the calendar page
+2019-08-19 13:10:19,883 - BookingPageImplements -INFO - Entered all the details of the appointment
+2019-08-19 13:10:21,684 - BookingPageImplements -INFO - A new customer is added and the details have been entered
+2019-08-19 13:10:27,388 - BookingPageImplements -INFO - customer name is entered in search field
+2019-08-19 13:10:32,758 - BookingPageImplements -INFO - customer name is edited and saved
+2019-08-19 13:10:37,593 - BookingPageImplements -INFO - Customer is deleted
+2019-08-19 13:11:26,826 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-19 13:11:49,573 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-19 13:11:53,894 - BookingPageImplements -INFO - Customer is added and all the customer details are filled
+2019-08-19 13:11:57,534 - BookingPageImplements -INFO - Customer is deleted successfully
+2019-08-19 13:12:28,584 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-19 13:12:54,840 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-19 13:12:57,724 - BookingPageImplements -INFO - multiple customers are clicked
+2019-08-19 13:19:20,798 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-19 13:19:57,425 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-19 13:19:59,225 - BookingPageImplements -INFO - multiple customers are clicked
+2019-08-19 13:22:41,898 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-19 13:23:14,247 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-19 13:23:18,746 - BookingPageImplements -INFO - multiple customers are clicked
+2019-08-19 13:25:18,551 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-19 13:25:42,302 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-19 13:25:46,391 - BookingPageImplements -INFO - multiple customers are clicked
+2019-08-19 13:25:46,991 - BookingPageImplements -INFO - multiple customers are deleted
+2019-08-19 13:27:29,933 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-19 13:28:07,044 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-19 13:28:07,839 - BookingPageImplements -INFO - clicked on apps and integrations
+2019-08-19 13:28:10,336 - BookingPageImplements -INFO - clicked on configure button
+2019-08-19 13:28:10,830 - BookingPageImplements -INFO - clicked on business hours
+2019-08-19 13:28:11,572 - BookingPageImplements -INFO - clicked on dropdown to choose the timezone
+2019-08-19 13:28:12,863 - BookingPageImplements -INFO - time zone for Phoenix is choosen
+2019-08-19 19:25:49,565 - BookingPageImplements -INFO - Browser invoked successfully and url is passed into the browser
+2019-08-19 19:26:40,386 - BookingPageImplements -INFO - Browser invoked successfully and url is passed into the browser
+2019-08-19 19:27:27,886 - BookingPageImplements -INFO - Browser invoked successfully and url is passed into the browser
+2019-08-19 19:28:29,445 - BookingPageImplements -INFO - Browser invoked successfully and url is passed into the browser
+2019-08-19 19:30:43,602 - BookingPageImplements -INFO - Browser invoked successfully and url is passed into the browser
+2019-08-19 19:30:50,982 - BookingPageImplements -INFO - okay button clicked
+2019-08-19 19:30:51,110 - BookingPageImplements -INFO - massage button clicked
+2019-08-19 19:30:51,262 - BookingPageImplements -INFO - head massaged service is choosen
+2019-08-19 19:30:51,482 - BookingPageImplements -INFO - staff is choosen for head massage-Engineer
+2019-08-19 19:30:53,868 - BookingPageImplements -INFO - timing has booked
+2019-08-19 19:30:54,126 - BookingPageImplements -INFO - login is skipped in booking page
+2019-08-19 19:30:56,538 - BookingPageImplements -INFO - All the details are entered successfully and booked
+2019-08-19 19:43:27,461 - BookingPageImplements -INFO - Browser invoked successfully and url is passed into the browser
+2019-08-19 19:43:34,814 - BookingPageImplements -INFO - okay button clicked
+2019-08-19 19:43:34,943 - BookingPageImplements -INFO - massage button clicked
+2019-08-19 19:43:35,099 - BookingPageImplements -INFO - head massaged service is choosen
+2019-08-19 19:43:35,303 - BookingPageImplements -INFO - staff is choosen for head massage-Engineer
+2019-08-19 19:43:37,610 - BookingPageImplements -INFO - timing has booked
+2019-08-19 19:43:37,884 - BookingPageImplements -INFO - login is skipped in booking page
+2019-08-19 19:43:40,281 - BookingPageImplements -INFO - All the details are entered successfully and booked
+2019-08-20 10:43:55,558 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-20 10:44:08,083 - BookingPageImplements -INFO - All the details are passed and signin successfully
+2019-08-20 10:50:13,009 - BookingPageImplements -INFO - Browser is invoked and url is passed
+2019-08-20 10:50:31,426 - BookingPageImplements -INFO - All the details are passed and signin successfully
