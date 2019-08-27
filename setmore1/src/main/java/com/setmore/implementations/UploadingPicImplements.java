@@ -51,7 +51,7 @@ public class UploadingPicImplements extends OpeningBrowser {
 		Thread.sleep(3000);
 	  /*  File classpathRoot = new File(System.getProperty("user.dir"));
         File picturesDir = new File(classpathRoot, "./images");
-        File picture = new File(picturesDir, "Captain_America.jpg");
+        File picture = new File(picturesDir, "aaaaa.jpg");
         String picturePath = picture.getAbsolutePath();
 	  */ 
 		driver.findElement(UploadingPic.click_camera).click();
